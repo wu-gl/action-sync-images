@@ -27,5 +27,5 @@ jobs:
       - run: bats -v
       - run: |
           #!/usr/bin/env bash
-          echo -e "Hello, Github Actions!\Author: WeiyiGeek\nBlog: https://blog.weiyigeek.top" 
+          echo -e "Hello, Github1 Actions!\Author: WeiyiGeek\nBlog: https://blog.weiyigeek.top" 
           whoami && uname -a && ip addr
